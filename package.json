@@ -1,0 +1,22 @@
+{
+  "name": "sayu-bot-js",
+  "version": "0.0.1",
+  "description": "Port of my own Discord bot - Sayu - to JavaScript.",
+  "main": "./src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/bot.js",
+    "dev": "nodemon ./src/bot.js"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "javascript"
+  ],
+  "author": "MM",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1"
+  }
+}
