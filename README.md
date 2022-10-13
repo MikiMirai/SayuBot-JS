@@ -1,4 +1,4 @@
-Writing Sayu Bot. A private, multi-functional bot for private use.
+Writing Sayu Bot. Multi-functional bot based on Sayu Ogiwara for private use.
 
 If you wish to Download and use the code you need to:
 1. Node install discord.js and dotenv.
